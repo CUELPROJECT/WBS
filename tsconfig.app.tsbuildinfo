@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/validation.tsx","./src/components/layouts/footer.tsx","./src/components/layouts/header.tsx","./src/store/store.ts","./src/store/slices/validationslice.ts","./src/types/validation.type.ts","./src/utils/httpclient.ts"],"version":"5.7.3"}
